@@ -1,5 +1,4 @@
 ## <font size="5">Apple Music dataset exploratory study, data credit to <a href="https://www.kaggle.com/datasets/kanchana1990/apple-music-dataset-10000-tracks-uncovered">Kanchana1990 (kaggle)</a></font>
-<font size="4">This Notebook has been released under the Apache 2.0 open source license.</font> 
 
 ## Welcome to the short journey through Apple Music song dataset!
 
@@ -12,3 +11,6 @@ The project consists of a few blocks:
 * Artists' and albums' study
 * Tracks' and albums' prices study: A/B tests design
 * Analysis of track explicitness
+
+
+<font size="4">This Notebook has been released under the Apache 2.0 open source license.</font>
